@@ -17,7 +17,7 @@
 [The encoder-decoder model as a dimensionality reduction technique](https://ekamperi.github.io/machine%20learning/2021/01/21/encoder-decoder-model.html)
 ### Other
 [6 Types of “Feature Importance” Any Data Scientist Should Know](https://towardsdatascience.com/6-types-of-feature-importance-any-data-scientist-should-master-1bfd566f21c9)
-[Bayesian Optimization with Python] (https://towardsdatascience.com/bayesian-optimization-with-python-85c66df711ec)
+[Bayesian Optimization with Python](https://towardsdatascience.com/bayesian-optimization-with-python-85c66df711ec)
 
 ## Papers
 [Long Short-Term Memory Recurrent Neural Network Architectures
