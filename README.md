@@ -21,3 +21,6 @@
 ## Papers  
 [Long Short-Term Memory Recurrent Neural Network Architectures
 for Large Scale Acoustic Modeling](https://static.googleusercontent.com/media/research.google.com/en//pubs/archive/43905.pdf)  
+[Auto-encoder based Model for High-dimensional Imbalanced Industrial Data](https://arxiv.org/ftp/arxiv/papers/2108/2108.02083.pdf)  
+## DataSets
+[Seagate Soft Sensing Data sets](https://github.com/Seagate/softsensing_data)
