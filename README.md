@@ -22,5 +22,8 @@
 [Long Short-Term Memory Recurrent Neural Network Architectures
 for Large Scale Acoustic Modeling](https://static.googleusercontent.com/media/research.google.com/en//pubs/archive/43905.pdf)  
 [Auto-encoder based Model for High-dimensional Imbalanced Industrial Data](https://arxiv.org/ftp/arxiv/papers/2108/2108.02083.pdf)  
+## Books  
+[Bayesian Methods for Hackers](https://github.com/CamDavidsonPilon/Probabilistic-Programming-and-Bayesian-Methods-for-Hackers)  
+[An Introduction to Statistical Learning](https://static1.squarespace.com/static/5ff2adbe3fe4fe33db902812/t/6009dd9fa7bc363aa822d2c7/1611259312432/ISLR+Seventh+Printing.pdf)  
 ## DataSets
 [Seagate Soft Sensing Data sets](https://github.com/Seagate/softsensing_data)
