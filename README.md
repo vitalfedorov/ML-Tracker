@@ -29,3 +29,5 @@ for Large Scale Acoustic Modeling](https://static.googleusercontent.com/media/re
 [An Introduction to Statistical Learning](https://static1.squarespace.com/static/5ff2adbe3fe4fe33db902812/t/6009dd9fa7bc363aa822d2c7/1611259312432/ISLR+Seventh+Printing.pdf)  
 ## DataSets
 [Seagate Soft Sensing Data sets](https://github.com/Seagate/softsensing_data)
+## The Open-Source Data Science Masters  
+[The open-source curriculum for learning Data Science](https://github.com/datasciencemasters/go#math)  
