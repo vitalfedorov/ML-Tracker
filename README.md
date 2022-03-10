@@ -20,6 +20,7 @@
 ### Other  
 [6 Types of “Feature Importance” Any Data Scientist Should Know](https://towardsdatascience.com/6-types-of-feature-importance-any-data-scientist-should-master-1bfd566f21c9)  
 [Bayesian Optimization with Python](https://towardsdatascience.com/bayesian-optimization-with-python-85c66df711ec)  
+[Variance Reduction](https://www.topbots.com/online-experiments-variance-reduction/)  
 ## Papers  
 [Long Short-Term Memory Recurrent Neural Network Architectures
 for Large Scale Acoustic Modeling](https://static.googleusercontent.com/media/research.google.com/en//pubs/archive/43905.pdf)  
