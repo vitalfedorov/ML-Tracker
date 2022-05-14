@@ -10,6 +10,7 @@
 [A simple overview of RNN, LSTM and Attention Mechanism](https://medium.com/swlh/a-simple-overview-of-rnn-lstm-and-attention-mechanism-9e844763d07b)   
 [A Deep Dive Into the Transformer Architecture – The Development of Transformer Models](https://www.exxactcorp.com/blog/Deep-Learning/a-deep-dive-into-the-transformer-architecture-the-development-of-transformer-models)   
 [Transformers from scratch](http://peterbloem.nl/blog/transformers)   
+[Attention Mechanism](https://blog.floydhub.com/attention-mechanism/)   
 
 
 [Sequence to Sequence (seq2seq) and Attention](https://lena-voita.github.io/nlp_course/seq2seq_and_attention.html)  
