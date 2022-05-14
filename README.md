@@ -7,6 +7,11 @@
 [Character-level recurrent sequence-to-sequence model - Keras Example](https://keras.io/examples/nlp/lstm_seq2seq/)  
 [Understanding LSTM Networks](https://colah.github.io/posts/2015-08-Understanding-LSTMs/)  
 #### Attention  
+[A simple overview of RNN, LSTM and Attention Mechanism](https://medium.com/swlh/a-simple-overview-of-rnn-lstm-and-attention-mechanism-9e844763d07b)   
+[A Deep Dive Into the Transformer Architecture – The Development of Transformer Models](https://www.exxactcorp.com/blog/Deep-Learning/a-deep-dive-into-the-transformer-architecture-the-development-of-transformer-models)   
+[Transformers from scratch](http://peterbloem.nl/blog/transformers)   
+
+
 [Sequence to Sequence (seq2seq) and Attention](https://lena-voita.github.io/nlp_course/seq2seq_and_attention.html)  
 [Building Seq2Seq LSTM with Luong Attention in Keras for Time Series Forecasting](https://levelup.gitconnected.com/building-seq2seq-lstm-with-luong-attention-in-keras-for-time-series-forecasting-1ee00958decb)  
 [A Comprehensive Guide to Attention Mechanism in Deep Learning for Everyone](https://www.analyticsvidhya.com/blog/2019/11/comprehensive-guide-attention-mechanism-deep-learning/)  
