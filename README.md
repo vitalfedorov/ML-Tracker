@@ -2,6 +2,12 @@
 ## Knowledge base
 ### Stanford Cheatsheet
 [CS 230 - Deep Learning](https://stanford.edu/~shervine/teaching/cs-230/cheatsheet-convolutional-neural-networks)  
+### Stanford CNN
+[CS231n: Convolutional Neural Networks for Visual Recognition](https://cs231n.github.io/)
+
+### Gradient Discent   
+[An overview of gradient descent optimization algorithms](https://ruder.io/optimizing-gradient-descent/)  
+
 ### Sequences  
 [The Unreasonable Effectiveness of Recurrent Neural Networks](http://karpathy.github.io/2015/05/21/rnn-effectiveness/)  
 [Character-level recurrent sequence-to-sequence model - Keras Example](https://keras.io/examples/nlp/lstm_seq2seq/)  
@@ -21,7 +27,7 @@
 [seq2seq Part F Encoder Decoder with Bahdanau & Luong  Attention Mechanism.ipynb](https://colab.research.google.com/github/kmkarakaya/ML_tutorials/blob/master/seq2seq_Part_F_Encoder_Decoder_with_Bahdanau_%26_Luong_Attention_Mechanism.ipynb#scrollTo=fm4n9GWCB0mk)  
 #### Encoder-Decoders model  
 [The encoder-decoder model as a dimensionality reduction technique](https://ekamperi.github.io/machine%20learning/2021/01/21/encoder-decoder-model.html)  
-#### Principal Component Analysis - PCA  
+### Principal Component Analysis - PCA  
 [Essential Math for Data Science: Eigenvectors and application to PCA](https://towardsdatascience.com/essential-math-for-data-science-eigenvectors-and-application-to-pca-6f85d11ceb64)  
 ### Other  
 [6 Types of “Feature Importance” Any Data Scientist Should Know](https://towardsdatascience.com/6-types-of-feature-importance-any-data-scientist-should-master-1bfd566f21c9)  
