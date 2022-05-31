@@ -28,7 +28,7 @@
 ### Dimensionality reduction   
 #### Encoder-Decoders model  
 [The encoder-decoder model as a dimensionality reduction technique](https://ekamperi.github.io/machine%20learning/2021/01/21/encoder-decoder-model.html) 
-### Principal Component Analysis - PCA  
+#### Principal Component Analysis - PCA  
 [Essential Math for Data Science: Eigenvectors and application to PCA](https://towardsdatascience.com/essential-math-for-data-science-eigenvectors-and-application-to-pca-6f85d11ceb64)  
 ### Other  
 [6 Types of “Feature Importance” Any Data Scientist Should Know](https://towardsdatascience.com/6-types-of-feature-importance-any-data-scientist-should-master-1bfd566f21c9)  
