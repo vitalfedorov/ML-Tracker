@@ -25,8 +25,9 @@
 [Attention Mechanisms in Recurrent Neural Networks (RNNs) With Keras](https://blog.paperspace.com/seq-to-seq-attention-mechanism-keras/)  
 [A simple overview of RNN, LSTM and Attention Mechanism](https://medium.com/swlh/a-simple-overview-of-rnn-lstm-and-attention-mechanism-9e844763d07b)  
 [seq2seq Part F Encoder Decoder with Bahdanau & Luong  Attention Mechanism.ipynb](https://colab.research.google.com/github/kmkarakaya/ML_tutorials/blob/master/seq2seq_Part_F_Encoder_Decoder_with_Bahdanau_%26_Luong_Attention_Mechanism.ipynb#scrollTo=fm4n9GWCB0mk)  
+### Dimensionality reduction   
 #### Encoder-Decoders model  
-[The encoder-decoder model as a dimensionality reduction technique](https://ekamperi.github.io/machine%20learning/2021/01/21/encoder-decoder-model.html)  
+[The encoder-decoder model as a dimensionality reduction technique](https://ekamperi.github.io/machine%20learning/2021/01/21/encoder-decoder-model.html) 
 ### Principal Component Analysis - PCA  
 [Essential Math for Data Science: Eigenvectors and application to PCA](https://towardsdatascience.com/essential-math-for-data-science-eigenvectors-and-application-to-pca-6f85d11ceb64)  
 ### Other  
