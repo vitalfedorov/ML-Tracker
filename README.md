@@ -5,7 +5,7 @@
 ### Stanford CNN
 [CS231n: Convolutional Neural Networks for Visual Recognition](https://cs231n.github.io/)
 
-### Gradient Discent   
+### Gradient Descent   
 [An overview of gradient descent optimization algorithms](https://ruder.io/optimizing-gradient-descent/)  
 
 ### Sequences  
