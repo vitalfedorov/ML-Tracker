@@ -5,8 +5,13 @@
 ### Stanford CNN
 [CS231n: Convolutional Neural Networks for Visual Recognition](https://cs231n.github.io/)
 
-### Gradient Descent   
+### Nonlinear optimization  
+#### Gradient Descent   
 [An overview of gradient descent optimization algorithms](https://ruder.io/optimizing-gradient-descent/)  
+#### Newton’s Method  
+[Nonlinear Optimization Using Newton’s Method](https://medium.com/mlearning-ai/nonlinear-optimization-using-newtons-method-1e8ca91432d8)  
+#### Halley’s Method
+[Nonlinear Optimization Using Halley’s Method](https://towardsdatascience.com/nonlinear-optimization-using-halleys-method-2f2e7da4024)  
 
 ### Sequences  
 [The Unreasonable Effectiveness of Recurrent Neural Networks](http://karpathy.github.io/2015/05/21/rnn-effectiveness/)  
