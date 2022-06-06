@@ -5,6 +5,10 @@
 ### Stanford CNN
 [CS231n: Convolutional Neural Networks for Visual Recognition](https://cs231n.github.io/)
 
+### Face recognition
+[How to Choose a Loss Function For Face Recognition](https://neptune.ai/blog/how-to-choose-loss-function-for-face-recognition#:~:text=The%20triplet%20loss%20is%20probably,increasing%20the%20anchor%2Dnegative%20distance.)  
+
+
 ### Nonlinear optimization  
 #### Gradient Descent   
 [An overview of gradient descent optimization algorithms](https://ruder.io/optimizing-gradient-descent/)  
@@ -26,7 +30,6 @@
 [A Deep Dive Into the Transformer Architecture – The Development of Transformer Models](https://www.exxactcorp.com/blog/Deep-Learning/a-deep-dive-into-the-transformer-architecture-the-development-of-transformer-models)   
 [Transformers from scratch](http://peterbloem.nl/blog/transformers)   
 [Attention Mechanism](https://blog.floydhub.com/attention-mechanism/)   
-
 
 [Sequence to Sequence (seq2seq) and Attention](https://lena-voita.github.io/nlp_course/seq2seq_and_attention.html)  
 [Building Seq2Seq LSTM with Luong Attention in Keras for Time Series Forecasting](https://levelup.gitconnected.com/building-seq2seq-lstm-with-luong-attention-in-keras-for-time-series-forecasting-1ee00958decb)  
@@ -52,6 +55,10 @@
 [Long Short-Term Memory Recurrent Neural Network Architectures
 for Large Scale Acoustic Modeling](https://static.googleusercontent.com/media/research.google.com/en//pubs/archive/43905.pdf)  
 [Auto-encoder based Model for High-dimensional Imbalanced Industrial Data](https://arxiv.org/ftp/arxiv/papers/2108/2108.02083.pdf)  
+[TRAINING RECURRENT NEURAL NETWORKS by Ilya Sutskever](http://www.cs.utoronto.ca/~ilya/pubs/ilya_sutskever_phd_thesis.pdf)  
+[Deep learning via Hessian-free optimization](https://www.cs.toronto.edu/~jmartens/docs/Deep_HessianFree.pdf)  
+[Accelerated gradient methods combining Tikhonov regularization with
+geometric damping driven by the Hessian](https://arxiv.org/abs/2203.05457)  
 ## Books  
 [Bayesian Methods for Hackers](https://github.com/CamDavidsonPilon/Probabilistic-Programming-and-Bayesian-Methods-for-Hackers)  
 [An Introduction to Statistical Learning](https://static1.squarespace.com/static/5ff2adbe3fe4fe33db902812/t/6009dd9fa7bc363aa822d2c7/1611259312432/ISLR+Seventh+Printing.pdf)  
