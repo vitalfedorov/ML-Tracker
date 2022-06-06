@@ -12,6 +12,10 @@
 [Nonlinear Optimization Using Newton’s Method](https://medium.com/mlearning-ai/nonlinear-optimization-using-newtons-method-1e8ca91432d8)  
 #### Halley’s Method
 [Nonlinear Optimization Using Halley’s Method](https://towardsdatascience.com/nonlinear-optimization-using-halleys-method-2f2e7da4024)  
+#### An Interactive Tutorial on Numerical Optimization
+[An Interactive Tutorial on Numerical Optimization](https://www.benfrederickson.com/numerical-optimization/#:~:text=The%20Nelder%2DMead%20method%20totally,with%20the%20number%20of%20cities.)  
+#### Alternatives to the Gradient Descent Algorithm
+[Alternatives to the Gradient Descent Algorithm](https://www.datasciencecentral.com/alternatives-to-the-gradient-descent-algorithm/)  
 
 ### Sequences  
 [The Unreasonable Effectiveness of Recurrent Neural Networks](http://karpathy.github.io/2015/05/21/rnn-effectiveness/)  
@@ -35,6 +39,11 @@
 [The encoder-decoder model as a dimensionality reduction technique](https://ekamperi.github.io/machine%20learning/2021/01/21/encoder-decoder-model.html) 
 #### Principal Component Analysis - PCA  
 [Essential Math for Data Science: Eigenvectors and application to PCA](https://towardsdatascience.com/essential-math-for-data-science-eigenvectors-and-application-to-pca-6f85d11ceb64)  
+#### Eigenvectors
+[Determinant of a Matrix](https://www.mathsisfun.com/algebra/matrix-determinant.html)  
+[Eigenvector and Eigenvalue](https://www.mathsisfun.com/algebra/eigenvalue.html)  
+[A geometric interpretation of the covariance matrix](http://www.cs.utah.edu/~tch/CS6640F2020/resources/A%20geometric%20interpretation%20of%20the%20covariance%20matrix.pdf)  
+
 ### Other  
 [6 Types of “Feature Importance” Any Data Scientist Should Know](https://towardsdatascience.com/6-types-of-feature-importance-any-data-scientist-should-master-1bfd566f21c9)  
 [Bayesian Optimization with Python](https://towardsdatascience.com/bayesian-optimization-with-python-85c66df711ec)  
